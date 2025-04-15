@@ -24,6 +24,8 @@ Your user account will need the [`Vertex AI User`](https://cloud.google.com/vert
 
 Setup the ADK according to the instructions [here](https://google.github.io/adk-docs/get-started/quickstart/).
 
+Rename the `dotenv-sample` file to `.env` and replace the values in the file with your values. Replace any values in `tools.py` files as needed.
+
 To [run](https://google.github.io/adk-docs/get-started/quickstart/#run-your-agent) the agent you can do one of the following:
 
 1. Run the agent using ADK's built-in web client (open a browser at http://localhost:8000):
