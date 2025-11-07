@@ -1,4 +1,4 @@
-# ADK Agent
+# A2A Currency Exchange Agent
 
 This sample uses the Agent Development Kit (ADK) to create a currency exchange Agent which communicates using A2A. The agent uses an MCP tool that provides currency lookup capability.
 
